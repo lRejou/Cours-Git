@@ -1,0 +1,25 @@
+/*============================= header ========================*/
+
+header{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.coloneLogo a{
+    height: auto;
+    width: auto;
+}
+
+.coloneLogo img{
+    height: 100px;
+}
+
+/*================================MAIN=======================*/
+
+.imgSlider{
+    height: 600px;
+    object-fit: cover;
+}
+
+.cardSection{
+    margin-top: 50px;
+}
